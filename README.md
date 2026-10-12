@@ -2,7 +2,7 @@
 
 # galadyas
 
-**Open-source projects, built in public.**
+**Open-source projects, crafted with care.**
 
 Technology works best when it serves people: their time, their privacy, their trust.
 
@@ -25,7 +25,7 @@ More projects will join the series.
 
 Every galadyas project follows the same standard.
 
-- **Open.** Built in public, free to use and to learn from.
+- **Open.** Open code, free to use and to learn from.
 - **Private by design.** No telemetry, no accounts, no data leaving your machine unless you send it.
 - **Useful anywhere.** Works across platforms and formats, for people in every field.
 - **Made to last.** Released as stable only when it is ready, shaped by real feedback.
